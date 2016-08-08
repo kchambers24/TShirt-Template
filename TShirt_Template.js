@@ -29,11 +29,6 @@ data.forEach(function(shirt){
 });
 });
 
-$("img").click(function() {
-	//logic that makes all shirt boxes disappear
-	//then makes the one that got clicked reappear
-})
-
 // $("img").click(function() {
 //
 // })
