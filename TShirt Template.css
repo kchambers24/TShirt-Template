@@ -1,0 +1,71 @@
+html {
+
+}
+body {
+
+}
+.mainContainer {
+  width: 100%;
+  display: flex;
+}
+.mainTShirt {
+  width: 400px;
+  margin-right: 1rem;
+}
+.navigationMenu {
+  width: 400px;
+}
+.shirt {
+  text-align: center;
+  border: 2px solid #0141D6;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+}
+.nav h3{
+  text-align: center;
+  border: 2px solid;
+  border-color: white;
+  border-radius: 20px;
+}
+.nav h3:hover {
+  border-color: black;
+}
+h1 {
+  text-align: center;
+  color: #0141D6;
+}
+h2 {
+  margin-bottom: 0;
+  color: #0141D6;
+}
+h3 {
+  margin: 10px;
+  width: 60px;
+}
+
+
+p.innerText {
+  color: #0E57FE;
+}
+p.innerPrice {
+  text-align: center;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  width: 120px;
+}
+.shirtTitle {
+  text-align: center;
+  color: #0141D6;
+}
+.price {
+  color: #0141D6;
+}
